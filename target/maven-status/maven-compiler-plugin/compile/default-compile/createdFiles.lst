@@ -1,5 +1,0 @@
-com\shsnc\App.class
-com\shsnc\api\DescribeMetricLast.class
-com\shsnc\ip2region\ip2region.class
-com\shsnc\ip2region\GeoIp2Analysis.class
-com\shsnc\api\DescribeMetricList.class
