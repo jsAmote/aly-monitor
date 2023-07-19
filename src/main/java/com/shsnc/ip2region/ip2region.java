@@ -20,6 +20,7 @@ public class ip2region {
     }
 
 
+
     public static void main(String[] args) throws Exception {
         String dbPath = "E:\\work\\aly-monitor\\src\\main\\resources\\ip2region.xdb";
 
@@ -27,6 +28,8 @@ public class ip2region {
         System.out.println(getCountryByIpOffline("221.214.8.82",dbPath));
         System.out.println(getCountryByIpOffline("182.37.164.66",dbPath));
         System.out.println(getCountryByIpOffline("61.144.35.2",dbPath));
+        System.out.println(getCountryByIpOffline("223.104.188.129",dbPath));
+
     }
 
 }
